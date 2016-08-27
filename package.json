@@ -1,0 +1,12 @@
+{
+  "name": "nytrecact",
+  "version": "1.0.0",
+  "description": "react nyt blah blah blah",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "rward",
+  "license": "ISC"
+}
